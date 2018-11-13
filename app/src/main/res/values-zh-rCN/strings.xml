@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3.2Resources</string>
+    <string name="mesage">大家好，好牛逼</string>
+    <string name="show">显示</string>
+    <string name="greeting">你妹逼</string>
+</resources>
